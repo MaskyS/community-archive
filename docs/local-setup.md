@@ -74,7 +74,7 @@ For example:
 
 ### Set up storage
 
-- Manually make a bucket in supabase storage called `archive`.
+- Manually make a bucket in supabase storage called `archives`.
 
 ### Manage remote migrations
 
